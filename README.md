@@ -303,11 +303,11 @@ review_queue = df.sort_values("anomaly_score", ascending=False).head(50)
 
 | Member | Responsibilities |
 | --- | --- |
-| Naveen Kumar | Project coordination, research design, experimental protocol, pipeline integration |
-| Aditya Raj | Dataset provenance, data quality checks, EDA, preprocessing review |
+| Ritik Ranjan | Project coordination, research design, experimental protocol, pipeline integration |
+| Archit Mamodiya  | Dataset provenance, data quality checks, EDA, preprocessing review |
 | Shagun Vishnoi | GMM statistical foundations, EM algorithm, AIC/BIC model selection |
-| Archit Mamodiya | Autoencoder architecture design, regularisation, training experiments |
-| Ritik Ranjan | Evaluation metrics (PR-AUC, fixed-budget recall), threshold tuning, reporting |
+| Aditya Raj | Autoencoder architecture design, regularisation, training experiments |
+|  Naveen Kumar| Evaluation metrics (PR-AUC, fixed-budget recall), threshold tuning, reporting |
 
 ---
 
