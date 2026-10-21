@@ -1,0 +1,63 @@
+{
+    "model": "GMM (K=3, Full Covariance, 29 Features)",
+    "features": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8",
+        "V9",
+        "V10",
+        "V11",
+        "V12",
+        "V13",
+        "V14",
+        "V15",
+        "V16",
+        "V17",
+        "V18",
+        "V19",
+        "V20",
+        "V21",
+        "V22",
+        "V23",
+        "V24",
+        "V25",
+        "V26",
+        "V27",
+        "V28",
+        "Amount"
+    ],
+    "test_average_precision": 0.6120762386092633,
+    "test_average_precision_95ci": [
+        0.485230542446923,
+        0.742689977028221
+    ],
+    "test_pr_auc_trapz": 0.6082979987744555,
+    "test_roc_auc": 0.9229041559204603,
+    "test_roc_auc_95ci": [
+        0.8786706939729901,
+        0.9616901070126448
+    ],
+    "chosen_threshold": 94.6757398491643,
+    "recall_at_0.5pct_fpr": 0.7567567567567568,
+    "recall_at_0.5pct_fpr_95ci": [
+        0.657811004784689,
+        0.847062908496732
+    ],
+    "false_positive_rate": 0.002787972896668549,
+    "precision_top_25": 0.72,
+    "precision_top_50": 0.84,
+    "precision_top_50_95ci": [
+        0.7,
+        0.94
+    ],
+    "precision_top_100": 0.56,
+    "true_positives": 56,
+    "false_positives": 158,
+    "false_negatives": 18,
+    "true_negatives": 56514
+}

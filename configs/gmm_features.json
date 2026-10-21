@@ -1,0 +1,17 @@
+{
+    "selected_features": [
+        "V14",
+        "V10",
+        "V12",
+        "V11",
+        "V17",
+        "V4",
+        "V3",
+        "V16",
+        "V7",
+        "V2",
+        "V9",
+        "Amount"
+    ],
+    "selection": "Top 11 V-features by KS statistic on the training period (first 60% of time) + Amount"
+}
